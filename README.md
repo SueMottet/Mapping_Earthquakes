@@ -1,7 +1,7 @@
 # Mapping_Earthquakes
 Interactive Earthquake Map with JavaScript
 
-References: 
+### References: 
 leafletjs quick start guide: https://leafletjs.com/examples/quick-start/
 mapbox styles: https://docs.mapbox.com/api/maps/styles/
 leafletjs: https://leafletjs.com/reference.html
@@ -13,3 +13,4 @@ mapbox static tiles api documentation: https://docs.mapbox.com/api/maps/#static-
 mapbox styles:https://docs.mapbox.com/api/maps/#styles
 leaflet documentation on methods using the map objecct and tile layers: https://leafletjs.com/reference-1.6.0.html#map-example
 creative commons: https://creativecommons.org/
+bindPopup() method: https://leafletjs.com/reference-1.6.0.html#popup
